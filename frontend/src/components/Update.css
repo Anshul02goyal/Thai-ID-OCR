@@ -1,0 +1,50 @@
+
+  .btl-btn{
+    cursor: pointer;
+    font-size: 32px;
+    border-radius: 20px;
+    position: fixed;
+    padding: 10px;
+    padding-inline: 30px;
+    bottom: 100px;
+    margin-left: 42%;
+    margin-bottom: 10px;
+  }
+  .box {
+    border: 1px solid #ccc;
+    padding: 20px;
+    border-radius: 10px;
+    width: 400px;
+    margin: 20px auto;
+    background-color: #f9f9f9;
+    font-family: Arial, sans-serif;
+    text-align: center;
+  }
+  
+  .box > div {
+    margin-bottom: 10px;
+    font-size: 16px;
+    text-align: left;
+  }
+  
+  input[type="text"] {
+    padding: 8px;
+    border: 1px solid black;
+    border-radius: 5px;
+    width: calc(100% - 10px);
+    font-size: 14px;
+  }
+  
+  button {
+    cursor: pointer;
+    border: none;
+    border-radius: 10px;
+    padding: 10px 40px; /* Adjusted padding for increased width */
+    margin-top: 20px;
+    background-color: rgb(43, 35, 35);
+    color: white;
+    font-size: 16px;
+    width: auto; /* Ensures button width adjusts based on padding */
+  }
+  
+  

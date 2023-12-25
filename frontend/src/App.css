@@ -1,0 +1,47 @@
+
+body {
+  background-color: rgba(0, 0, 0, 0.689);
+}
+
+h1{
+  font-size: 60px;
+  color: #ebebf4;
+  align-items: center;
+  text-align: center;
+  padding-top: 1.5%;
+  padding-bottom: 0.1%;
+}
+
+
+#uploader {
+  text-align: center;
+  color: whitesmoke;
+  padding: 1%;
+  margin-top: 100px;
+}
+#image {
+  text-align: center;
+  cursor: pointer;
+  padding: 10px;
+  border-radius: 10px;
+  border: 2px solid black;
+  margin-inline: 20px;
+}
+#btnSubmit {
+  background-color: black;
+  cursor: pointer;
+  color: whitesmoke;
+  border-radius: 10px;
+  padding: 10px;
+}
+.ocr-btn{
+  cursor: pointer;
+  font-size: 32px;
+  border-radius: 20px;
+  position: fixed;
+  padding: 10px;
+  padding-inline: 30px;
+  bottom: 0;
+  margin-left: 41.5%;
+  margin-bottom: 10px;
+ }
